@@ -18,8 +18,8 @@ __Objective:__ Develop a Generative AI application using a Large Language Model 
 
 Specific skills include retrieving models from Huggingface, loading them and configuring them with Llama, constructing a detailed system message with instructions to complete the assignment, as well as working with the JSON output. Developing a set of observations and recommendations are also an important component of this project.
 
-* Notebook: [Support Ticket Categorization](https://github.com/jreves/GA-NLP-Projects)
-* Dataset:[ Support Ticket Text.csv](https://github.com/jreves/GA-NLP-Projects)
+* Notebook: [Support Ticket Categorization](https://github.com/jreves/GA-NLP-Projects/blob/main/Support_Ticket_Categorization.ipynb)
+* Dataset:[ Support Ticket Text.csv](https://github.com/jreves/GA-NLP-Projects/blob/main/Support_ticket_text.csv)
 
 ### Final Project: Data Science Assistant
 _Generative AI Applications with LangChain_
@@ -28,7 +28,7 @@ __Objective:__ The objective of this project is to develop a Generative AI solut
 
 Skills include using the OpenAI API interface, creating agents for EDA including plot generation, hypothesis testing, and classification with a variety of ML models. We define an agent for SQL database queries with math skills, and finally implement a RAG solution with a vector database, loading additional local content and enabling our agent to make web queries through the google search API.
 
-* Notebook: [Data Science Assistant](https://github.com/jreves/GA-NLP-Projects)
-* Dataset: [SAHeart.csv](https://github.com/jreves/GA-NLP-Projects)
-* Dataset: [sample.db](https://github.com/jreves/GA-NLP-Projects)
-* Dataset: [cpu-intro.pdf](https://github.com/jreves/GA-NLP-Projects)
+* Notebook: [Data Science Assistant](https://github.com/jreves/GA-NLP-Projects/blob/main/Data_Science_Assistant%20-%20Backdated.ipynb)
+* Dataset: [SAHeart.csv](https://github.com/jreves/GA-NLP-Projects/blob/main/SAheart.csv)
+* Dataset: [sample.db](https://github.com/jreves/GA-NLP-Projects/blob/main/sample.db)
+* Dataset: [cpu-intro.pdf](https://github.com/jreves/GA-NLP-Projects/blob/main/cpu-intro.pdf)
